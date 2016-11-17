@@ -12,3 +12,5 @@ Needed:
 2. djvused (DjvuLibre library)
 
 3. a good utf-8 text editor 
+
+(to be continued)
