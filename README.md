@@ -1,7 +1,7 @@
 # OCRfix
 A simple python script to fix scannos inside djvu text layer
 
-OCRfix.djvu outputs text layer of a djvu file, builds from it the full list of words, and allows a suer to edit them; finally edited words are wrapped again into djvu text layer. 
+OCRfix.py outputs text layer of a djvu file, builds from it the full list of words, and allows a user to edit them; finally edited words are wrapped again into djvu text layer. 
 
 It works into two steps, step1 and step2.
 
